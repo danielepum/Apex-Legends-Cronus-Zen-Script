@@ -231,7 +231,7 @@ Setup typically takes a few minutes for the initial load. Allow additional time 
 
 ---
 
-👨‍💻 **Develo
+👨‍💻 **Developer Information**
 
 | Info | Details |
 |---|---|
