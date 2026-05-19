@@ -3,8 +3,7 @@
 Plug-and-play Cronus Zen script for Apex Legends featuring recoil control, aim enhancement, and customizable tuning options for PS5 and Xbox players.
 
 📥 **Download Apex V6.1**
-Get the latest version of Apex V6.1 here.
-
+<a href="https://www.cronuszenscripts.com/scripts/apex-v6-1/?utm_source=affiliate&utm_medium=referral&utm_campaign=brian" target="_blank" rel="nofollow sponsored">Get the latest version of Apex V6.1 here</a>
 ---
 
 🎮 **Supported Platforms**
