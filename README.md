@@ -231,7 +231,7 @@ Setup typically takes a few minutes for the initial load. Allow additional time 
 
 ---
 
-👨‍💻 **Developer Information**
+👨‍💻 **Develo
 
 | Info | Details |
 |---|---|
@@ -249,4 +249,4 @@ Use scripts responsibly and follow all game and platform terms of service. No ba
 ---
 
 🛒 **Download Apex V6.1**
-Get the latest version here.
+<a href="https://www.cronuszenscripts.com/scripts/apex-v6-1/?utm_source=affiliate&utm_medium=referral&utm_campaign=brian" target="_blank" rel="nofollow sponsored">Get the latest version here</a>
